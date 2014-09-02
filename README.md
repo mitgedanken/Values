@@ -1,4 +1,4 @@
 Values
 ======
 
-Componennt for ValueObject
+Component for ValueObject.
