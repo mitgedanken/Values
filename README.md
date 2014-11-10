@@ -1,4 +1,4 @@
-Values
-======
+mitgedanken-Values
+==================
 
-Component for ValueObject.
+Components for ValueObjects.
