@@ -1,4 +1,3 @@
-mitgedanken-Values
+Values
 ==================
-
-Components for ValueObjects.
+Components for 'Value Objects'.
